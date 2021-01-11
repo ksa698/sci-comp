@@ -11,8 +11,8 @@ open terminal
 # cd to working directory
 # git init
 # git add .
-  # or git add 'filename'
-# git commit -m "name"
+  or git add 'filename'
+# git commit -m 'name'
   name will say any changes youve made
-# git remote origin 'url from new repo'
+# git remote add origin 'url from new repo'
 # git push -u origin master
