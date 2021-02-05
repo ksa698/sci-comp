@@ -1,7 +1,11 @@
 # sci-comp-fortran
-Intro to Scientific Computing Course
-Fortran Code
-#######################################################
+Intro to Scientific Computing Course Fortran Code
+### ####################################################
+The code under the "graded" folder is from HW/Midterms
+## 
+The code without a folder is helpful psuedo code from class & exercises
+
+### ####################################################
 Simple guide to push code into github
 
 Steps:
